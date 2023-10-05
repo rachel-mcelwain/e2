@@ -4,17 +4,16 @@
 
 ## Game planning
 + Create an array of three elements - rock, paper, scissors
-+ For Player A choose one of the elements 
-+ For Computer Player - randomly assign one element 
++ For Player A and B randomly assign an element
 + Compare the two choices 
 + If rock is chosen over scissors - that is the winner 
 + If paper is chosen over rock - that player is the winner
 + If scissors is chosen over paper - that player is the winner
-+ If the same element is chosen then the two players go again
-+ Repeat the comparision 
++ If the same element is chosen then there is a tie
 + Announce winner
 
 ## Outside resources
-
++ None
 
 ## Notes for instructor
++ Enjoy! 

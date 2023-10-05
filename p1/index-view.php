@@ -14,12 +14,16 @@
 
     <h2>Game Mechanics</h2>
         <ul>
-            <li></li>
+            <li>Player A and Player B choose Rock, Paper, or Scissors</li>
+            <li>There is a tie if both players choose the same element</li>
+            <li>Otherwise: Rock beats Scissors, Paper beats Rock, and Scissors beats Paper</li>
         </ul>
 
     <h2>Results</h2>
         <ul>
-            <li></li>
+            <li>Player A chose <?php echo $playerA ?></li>
+            <li>Player B chose <?php echo $playerB ?></li>
+            <li>The winner is <?php echo $winner ?></li>
         </ul>
 
 </body>

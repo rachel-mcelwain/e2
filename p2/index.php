@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <h2>Project 2</h2>
     <h2>Game Mechanics</h2>
 </body>
 

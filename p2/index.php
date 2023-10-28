@@ -27,5 +27,3 @@ if ($playerA == 'Rock' && $playerB == 'Scissors') {
 }
 
 require 'index-view.php';
-
-</html>

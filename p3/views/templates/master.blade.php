@@ -16,7 +16,6 @@
 <body>
 
 <header>
-    <img id='logo' src='/images/hes-logo.png' alt='Harvard Extension School Logo'>
     <h1>{{ $app->config('app.name') }}</h1>
 </header>
 
